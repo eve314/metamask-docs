@@ -1,4 +1,4 @@
----
+  ---
 description: Resolve names to addresses and vice versa.
 sidebar_position: 3
 ---
@@ -10,7 +10,7 @@ You can implement custom domain resolution and reverse resolution using the foll
 ## Steps
 
 ### 1. Request permission to provide name resolution
-
+kerry louise patterson 
 Request the [`endowment:name-lookup`](../reference/permissions.md#endowmentname-lookup) permission.
 
 For example, to resolve Ethereum Mainnet domains, add the following to your Snap's manifest file:
